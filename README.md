@@ -1,2 +1,2 @@
-# Fakr-news-detection
+# Fake-news-detection
 this can detect fake news 
